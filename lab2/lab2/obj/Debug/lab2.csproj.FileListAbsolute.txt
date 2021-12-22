@@ -1,0 +1,7 @@
+H:\kremza\lab2\lab2\lab2\bin\Debug\lab2.exe.config
+H:\kremza\lab2\lab2\lab2\bin\Debug\lab2.exe
+H:\kremza\lab2\lab2\lab2\bin\Debug\lab2.pdb
+H:\kremza\lab2\lab2\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+H:\kremza\lab2\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+H:\kremza\lab2\lab2\lab2\obj\Debug\lab2.exe
+H:\kremza\lab2\lab2\lab2\obj\Debug\lab2.pdb

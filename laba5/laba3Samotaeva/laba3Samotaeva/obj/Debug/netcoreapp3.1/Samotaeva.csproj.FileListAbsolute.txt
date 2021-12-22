@@ -1,0 +1,42 @@
+E:\kremza\laba3\laba3Samotaeva\laba3Samotaeva\bin\Debug\netcoreapp3.1\Samotaeva.exe
+E:\kremza\laba3\laba3Samotaeva\laba3Samotaeva\bin\Debug\netcoreapp3.1\Samotaeva.deps.json
+E:\kremza\laba3\laba3Samotaeva\laba3Samotaeva\bin\Debug\netcoreapp3.1\Samotaeva.runtimeconfig.json
+E:\kremza\laba3\laba3Samotaeva\laba3Samotaeva\bin\Debug\netcoreapp3.1\Samotaeva.runtimeconfig.dev.json
+E:\kremza\laba3\laba3Samotaeva\laba3Samotaeva\bin\Debug\netcoreapp3.1\Samotaeva.dll
+E:\kremza\laba3\laba3Samotaeva\laba3Samotaeva\bin\Debug\netcoreapp3.1\Samotaeva.pdb
+E:\kremza\laba3\laba3Samotaeva\laba3Samotaeva\obj\Debug\netcoreapp3.1\Samotaeva.AssemblyInfoInputs.cache
+E:\kremza\laba3\laba3Samotaeva\laba3Samotaeva\obj\Debug\netcoreapp3.1\Samotaeva.AssemblyInfo.cs
+E:\kremza\laba3\laba3Samotaeva\laba3Samotaeva\obj\Debug\netcoreapp3.1\Samotaeva.csproj.CoreCompileInputs.cache
+E:\kremza\laba3\laba3Samotaeva\laba3Samotaeva\obj\Debug\netcoreapp3.1\Samotaeva.dll
+E:\kremza\laba3\laba3Samotaeva\laba3Samotaeva\obj\Debug\netcoreapp3.1\Samotaeva.pdb
+E:\kremza\laba3\laba3Samotaeva\laba3Samotaeva\obj\Debug\netcoreapp3.1\Samotaeva.genruntimeconfig.cache
+E:\kremza\laba3\laba3Samotaeva\laba3Samotaeva\obj\Debug\netcoreapp3.1\Samotaeva.csprojAssemblyReference.cache
+E:\4 курс\kremza\laba3\laba3Samotaeva\laba3Samotaeva\bin\Debug\netcoreapp3.1\Samotaeva.exe
+E:\4 курс\kremza\laba3\laba3Samotaeva\laba3Samotaeva\bin\Debug\netcoreapp3.1\Samotaeva.deps.json
+E:\4 курс\kremza\laba3\laba3Samotaeva\laba3Samotaeva\bin\Debug\netcoreapp3.1\Samotaeva.runtimeconfig.json
+E:\4 курс\kremza\laba3\laba3Samotaeva\laba3Samotaeva\bin\Debug\netcoreapp3.1\Samotaeva.runtimeconfig.dev.json
+E:\4 курс\kremza\laba3\laba3Samotaeva\laba3Samotaeva\bin\Debug\netcoreapp3.1\Samotaeva.dll
+E:\4 курс\kremza\laba3\laba3Samotaeva\laba3Samotaeva\bin\Debug\netcoreapp3.1\Samotaeva.pdb
+E:\4 курс\kremza\laba3\laba3Samotaeva\laba3Samotaeva\obj\Debug\netcoreapp3.1\Samotaeva.csprojAssemblyReference.cache
+E:\4 курс\kremza\laba3\laba3Samotaeva\laba3Samotaeva\obj\Debug\netcoreapp3.1\Samotaeva.AssemblyInfoInputs.cache
+E:\4 курс\kremza\laba3\laba3Samotaeva\laba3Samotaeva\obj\Debug\netcoreapp3.1\Samotaeva.AssemblyInfo.cs
+E:\4 курс\kremza\laba3\laba3Samotaeva\laba3Samotaeva\obj\Debug\netcoreapp3.1\Samotaeva.dll
+E:\4 курс\kremza\laba3\laba3Samotaeva\laba3Samotaeva\obj\Debug\netcoreapp3.1\Samotaeva.pdb
+E:\4 курс\kremza\laba3\laba3Samotaeva\laba3Samotaeva\obj\Debug\netcoreapp3.1\Samotaeva.genruntimeconfig.cache
+E:\4 курс\kremza\laba3\laba3Samotaeva\laba3Samotaeva\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\4 курс\kremza\laba3\laba3Samotaeva\laba3Samotaeva\bin\Debug\netcoreapp3.1\NPOI.OOXML.dll
+E:\4 курс\kremza\laba3\laba3Samotaeva\laba3Samotaeva\bin\Debug\netcoreapp3.1\NPOI.OpenXml4Net.dll
+E:\4 курс\kremza\laba3\laba3Samotaeva\laba3Samotaeva\bin\Debug\netcoreapp3.1\NPOI.OpenXmlFormats.dll
+E:\4 курс\kremza\laba3\laba3Samotaeva\laba3Samotaeva\bin\Debug\netcoreapp3.1\NPOI.dll
+E:\4 курс\kremza\laba3\laba3Samotaeva\laba3Samotaeva\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\4 курс\kremza\laba3\laba3Samotaeva\laba3Samotaeva\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+E:\4 курс\kremza\laba3\laba3Samotaeva\laba3Samotaeva\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\4 курс\kremza\laba3\laba3Samotaeva\laba3Samotaeva\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\4 курс\kremza\laba3\laba3Samotaeva\laba3Samotaeva\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\4 курс\kremza\laba3\laba3Samotaeva\laba3Samotaeva\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\4 курс\kremza\laba3\laba3Samotaeva\laba3Samotaeva\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+E:\4 курс\kremza\laba3\laba3Samotaeva\laba3Samotaeva\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+E:\4 курс\kremza\laba3\laba3Samotaeva\laba3Samotaeva\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+E:\4 курс\kremza\laba3\laba3Samotaeva\laba3Samotaeva\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\4 курс\kremza\laba3\laba3Samotaeva\laba3Samotaeva\obj\Debug\netcoreapp3.1\Samotaeva.csproj.CoreCompileInputs.cache
+E:\4 курс\kremza\laba3\laba3Samotaeva\laba3Samotaeva\obj\Debug\netcoreapp3.1\Samotaeva.csproj.CopyComplete
